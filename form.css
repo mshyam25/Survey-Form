@@ -160,7 +160,8 @@ body {
     justify-content: center;
     min-height: 100vh;
     align-items: center;
-    background-color: black
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .main {
@@ -170,13 +171,13 @@ body {
     align-items: flex-start;
     width: 100%;
     max-width: 900px;
-    background-color: thistle;
+    background-color: #ffadad;
     border-radius: 10px;
-    padding: 10px
+    padding: 40px;
 }
 
 tr:nth-of-type(2n) {
-    background-color: grey;
+    background-color: #b08968;
 }
 
 sup {
@@ -185,7 +186,7 @@ sup {
 }
 
 .last {
-    margin-left: 152px;
+    margin-left: 155px;
 }
 
 .span1 {
